@@ -1,0 +1,55 @@
+h1 {
+    font-size: 50px;
+    
+}
+
+
+
+/* body{ background-color: #ddd; }
+
+#flagWrapper{
+	margin: 20px;
+  @include size(360px 180px);
+	position: relative;
+	box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.25);
+}
+
+#blue, #red{ height: 50%; }
+#blue{ background: #0038a8; }
+#red{ background: #ce1126; }
+
+#white{
+	@include position(relative, -180px null null null);
+	@include triangle(180px 156px, #fff, right);
+}
+
+#sun{
+  @include size(76px);
+  @include position(absolute, 53px null null 18px);
+  background: {
+    image: url("http://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_the_Philippines_-_cropped_sun.svg");
+    repeat: no-repeat;
+    size: 100% 100%;
+  }
+}
+
+[class*="star-"]{
+	color: #fcd116;
+	font-size: 24px;
+  
+  &::before{ content: '★'; }
+}
+
+.star{
+  &-1{
+    @include position(absolute, 10px null null 3px);
+    transform: rotate(121deg);
+  }
+  &-2{
+    @include position(absolute, null null 10px 3px);
+  }
+  &-3{
+    @include position(absolute, 75px null null 118px);
+    transform: rotate(90deg);
+  }
+} */
